@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+>>>>>>> 824b5f9775c43dc13b325bdfb660ce30cebb2f84
